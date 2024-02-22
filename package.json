@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "comp 2156 lab exercise",
   "main": "index.js",
+  "homepage": "https://sanehpreet.github.io/comp2156/",
   "scripts": {
     "start": "react-scripts start",
   "build": "react-scripts build",
